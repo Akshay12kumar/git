@@ -35,7 +35,7 @@
         <spark.version>2.4.3</spark.version>
 
         <!-- Build -->
-        <maven.jar.plugin.version>3.1.2</maven.jar.plugin.version>
+        <maven.jar.plugin.version>1.1.2</maven.jar.plugin.version>
         <scala.version>2.12.10</scala.version>
         <scala.compat.version>2.12</scala.compat.version>
         <scala.maven.plugin.version>3.3.2</scala.maven.plugin.version>
